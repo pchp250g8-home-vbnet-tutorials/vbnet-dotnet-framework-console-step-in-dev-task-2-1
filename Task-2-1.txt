@@ -1,0 +1,14 @@
+On an orbital track, a sensor reports the interference level every
+minute. Integers A and B - the bounds of the safe range (A <= B) -
+are entered. A reading is safe if A <= reading <= B. Then integer
+sensor readings follow; 0 marks the end of input and is not a
+reading. Find the length of the longest continuous segment where
+all readings are safe.
+
+На орбитальной трассе датчик каждую минуту передаёт
+уровень помех. Вводятся целые А и В - границы
+безопасного диапазона (A <= B). Показание безопасно, если А
+<= показание <= В. Затем вводятся целые показания датчика;
+0 означает конец ввода и не является показанием. 
+Найди длину самого длинного непрерывного участка, где все показания
+безопасны.
